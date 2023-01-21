@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Habits é um app para gravar os seus habitos diários e ver seu progresso.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://eduardofreyer.github.io/habits)
 
 ## 🔖 Layout
 
